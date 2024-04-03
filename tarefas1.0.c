@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "tarefas1.0.h"
+#include "funcoes.h"
 int main() {
 // definição de variaveis
     ListaDeTarefas listaTarefas;
