@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "tarefas1.0.h"
+#include "funcoes.h"
 
 void cadastrarTarefa(ListaDeTarefas *lt) {
     // condição para verificar a quantidade de tarefas
