@@ -1,7 +1,8 @@
 #ifndef FUNCOES_H
 #define FUNCOES_H
 
-// type def do truck irá informar o que será permitido dentro dele e a quantidade de caracteres
+// type def do truck irá informar o que será permitido dentro dele e a
+// quantidade de caracteres
 typedef struct {
     int prioridade;
     char categoria[100];
